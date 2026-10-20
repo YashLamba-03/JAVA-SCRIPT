@@ -25,11 +25,31 @@
 // let case3InNumber=Number(case3)
 // console.log(typeof case3InNumber)
 // console.log(case3InNumber)
- let isLoggedIn=1
- let booleanIsLoggedIn=Boolean(isLoggedIn)
- console.log(booleanIsLoggedIn)
+//  let isLoggedIn=1
+//  let booleanIsLoggedIn=Boolean(isLoggedIn)
+//  console.log(booleanIsLoggedIn)
 
  //1=> true;0=>false
  //""=>false
  //"Yash"=>true
 
+
+ let someNumber=33
+ let stringOfSomeNumber=String(someNumber)
+//  console.log(stringOfSomeNumber)
+//  console.log(typeof(someNumber))
+
+ //******************operations************************* 
+
+ let value=3
+ let netValue=-value
+ console.log(netValue)
+
+//  console.log("1"+2)
+//  console.log(1+"2")
+//  console.log("1"+2+2)
+//  console.log(1+2+"2")
+
+console.log(true)
+console.log(+true)
+console.log(+"")
